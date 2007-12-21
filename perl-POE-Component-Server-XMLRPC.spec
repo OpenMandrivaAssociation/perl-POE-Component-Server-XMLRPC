@@ -8,6 +8,7 @@ Group:		Development/Perl
 Summary:        Perl module to publish POE event handlers via XMLRPC over HTTP
 Source0:        ftp://ftp.perl.org/pub/CPAN/modules/by-module/POE/%{realname}-%{version}.tar.bz2
 Url:		http://search.cpan.org/dist/%{realname}
+BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildRequires:	perl-devel 
 BuildRequires:  perl(POE::Component::Server::HTTP)
 BuildRequires:  perl(SOAP::Lite) 
