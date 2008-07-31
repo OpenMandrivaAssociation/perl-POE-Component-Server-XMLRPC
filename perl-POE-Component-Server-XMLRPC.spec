@@ -2,7 +2,7 @@
 
 Name:		perl-%{realname}
 Version:    0.05
-Release:    %mkrel 6
+Release:    %mkrel 7
 License:	Artistic and GPL
 Group:		Development/Perl
 Summary:        Perl module to publish POE event handlers via XMLRPC over HTTP
