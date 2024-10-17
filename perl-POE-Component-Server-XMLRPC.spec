@@ -8,7 +8,7 @@ Release:	4
 Summary:	Perl module to publish POE event handlers via XMLRPC over HTTP
 License:	Artistic and GPL+
 Group:		Development/Perl
-Url:		http://search.cpan.org/dist/%{upstream_name}
+Url:		https://search.cpan.org/dist/%{upstream_name}
 Source0:	ftp://ftp.perl.org/pub/CPAN/modules/by-module/POE/%{upstream_name}-%{upstream_version}.tar.bz2
 
 BuildRequires:	perl-devel
